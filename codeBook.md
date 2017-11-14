@@ -44,7 +44,7 @@ Variable name
 1
 </td>
 <td style="text-align:left;">
-,“personID”
+personID
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ Variable name
 2
 </td>
 <td style="text-align:left;">
-,“activityName”
+activityName
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ Variable name
 3
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-mean()-X”
+tBodyAcc-mean()-X
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ Variable name
 4
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-mean()-Y”
+tBodyAcc-mean()-Y
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ Variable name
 5
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-mean()-Z”
+tBodyAcc-mean()-Z
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ Variable name
 6
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-std()-X”
+tBodyAcc-std()-X
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Variable name
 7
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-std()-Y”
+tBodyAcc-std()-Y
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ Variable name
 8
 </td>
 <td style="text-align:left;">
-,“tBodyAcc-std()-Z”
+tBodyAcc-std()-Z
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ Variable name
 9
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-mean()-X”
+tGravityAcc-mean()-X
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ Variable name
 10
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-mean()-Y”
+tGravityAcc-mean()-Y
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Variable name
 11
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-mean()-Z”
+tGravityAcc-mean()-Z
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ Variable name
 12
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-std()-X”
+tGravityAcc-std()-X
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ Variable name
 13
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-std()-Y”
+tGravityAcc-std()-Y
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ Variable name
 14
 </td>
 <td style="text-align:left;">
-,“tGravityAcc-std()-Z”
+tGravityAcc-std()-Z
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ Variable name
 15
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-mean()-X”
+tBodyAccJerk-mean()-X
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ Variable name
 16
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-mean()-Y”
+tBodyAccJerk-mean()-Y
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ Variable name
 17
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-mean()-Z”
+tBodyAccJerk-mean()-Z
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ Variable name
 18
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-std()-X”
+tBodyAccJerk-std()-X
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ Variable name
 19
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-std()-Y”
+tBodyAccJerk-std()-Y
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ Variable name
 20
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerk-std()-Z”
+tBodyAccJerk-std()-Z
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ Variable name
 21
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-mean()-X”
+tBodyGyro-mean()-X
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ Variable name
 22
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-mean()-Y”
+tBodyGyro-mean()-Y
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ Variable name
 23
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-mean()-Z”
+tBodyGyro-mean()-Z
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ Variable name
 24
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-std()-X”
+tBodyGyro-std()-X
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ Variable name
 25
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-std()-Y”
+tBodyGyro-std()-Y
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ Variable name
 26
 </td>
 <td style="text-align:left;">
-,“tBodyGyro-std()-Z”
+tBodyGyro-std()-Z
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ Variable name
 27
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-mean()-X”
+tBodyGyroJerk-mean()-X
 </td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ Variable name
 28
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-mean()-Y”
+tBodyGyroJerk-mean()-Y
 </td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ Variable name
 29
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-mean()-Z”
+tBodyGyroJerk-mean()-Z
 </td>
 </tr>
 <tr>
@@ -276,7 +276,7 @@ Variable name
 30
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-std()-X”
+tBodyGyroJerk-std()-X
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ Variable name
 31
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-std()-Y”
+tBodyGyroJerk-std()-Y
 </td>
 </tr>
 <tr>
@@ -292,7 +292,7 @@ Variable name
 32
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerk-std()-Z”
+tBodyGyroJerk-std()-Z
 </td>
 </tr>
 <tr>
@@ -300,7 +300,7 @@ Variable name
 33
 </td>
 <td style="text-align:left;">
-,“tBodyAccMag-mean()”
+tBodyAccMag-mean()
 </td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ Variable name
 34
 </td>
 <td style="text-align:left;">
-,“tBodyAccMag-std()”
+tBodyAccMag-std()
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ Variable name
 35
 </td>
 <td style="text-align:left;">
-,“tGravityAccMag-mean()”
+tGravityAccMag-mean()
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ Variable name
 36
 </td>
 <td style="text-align:left;">
-,“tGravityAccMag-std()”
+tGravityAccMag-std()
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ Variable name
 37
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerkMag-mean()”
+tBodyAccJerkMag-mean()
 </td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@ Variable name
 38
 </td>
 <td style="text-align:left;">
-,“tBodyAccJerkMag-std()”
+tBodyAccJerkMag-std()
 </td>
 </tr>
 <tr>
@@ -348,7 +348,7 @@ Variable name
 39
 </td>
 <td style="text-align:left;">
-,“tBodyGyroMag-mean()”
+tBodyGyroMag-mean()
 </td>
 </tr>
 <tr>
@@ -356,7 +356,7 @@ Variable name
 40
 </td>
 <td style="text-align:left;">
-,“tBodyGyroMag-std()”
+tBodyGyroMag-std()
 </td>
 </tr>
 <tr>
@@ -364,7 +364,7 @@ Variable name
 41
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerkMag-mean()”
+tBodyGyroJerkMag-mean()
 </td>
 </tr>
 <tr>
@@ -372,7 +372,7 @@ Variable name
 42
 </td>
 <td style="text-align:left;">
-,“tBodyGyroJerkMag-std()”
+tBodyGyroJerkMag-std()
 </td>
 </tr>
 <tr>
@@ -380,7 +380,7 @@ Variable name
 43
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-mean()-X”
+fBodyAcc-mean()-X
 </td>
 </tr>
 <tr>
@@ -388,7 +388,7 @@ Variable name
 44
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-mean()-Y”
+fBodyAcc-mean()-Y
 </td>
 </tr>
 <tr>
@@ -396,7 +396,7 @@ Variable name
 45
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-mean()-Z”
+fBodyAcc-mean()-Z
 </td>
 </tr>
 <tr>
@@ -404,7 +404,7 @@ Variable name
 46
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-std()-X”
+fBodyAcc-std()-X
 </td>
 </tr>
 <tr>
@@ -412,7 +412,7 @@ Variable name
 47
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-std()-Y”
+fBodyAcc-std()-Y
 </td>
 </tr>
 <tr>
@@ -420,7 +420,7 @@ Variable name
 48
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-std()-Z”
+fBodyAcc-std()-Z
 </td>
 </tr>
 <tr>
@@ -428,7 +428,7 @@ Variable name
 49
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-meanFreq()-X”
+fBodyAcc-meanFreq()-X
 </td>
 </tr>
 <tr>
@@ -436,7 +436,7 @@ Variable name
 50
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-meanFreq()-Y”
+fBodyAcc-meanFreq()-Y
 </td>
 </tr>
 <tr>
@@ -444,7 +444,7 @@ Variable name
 51
 </td>
 <td style="text-align:left;">
-,“fBodyAcc-meanFreq()-Z”
+fBodyAcc-meanFreq()-Z
 </td>
 </tr>
 <tr>
@@ -452,7 +452,7 @@ Variable name
 52
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-mean()-X”
+fBodyAccJerk-mean()-X
 </td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@ Variable name
 53
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-mean()-Y”
+fBodyAccJerk-mean()-Y
 </td>
 </tr>
 <tr>
@@ -468,7 +468,7 @@ Variable name
 54
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-mean()-Z”
+fBodyAccJerk-mean()-Z
 </td>
 </tr>
 <tr>
@@ -476,7 +476,7 @@ Variable name
 55
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-std()-X”
+fBodyAccJerk-std()-X
 </td>
 </tr>
 <tr>
@@ -484,7 +484,7 @@ Variable name
 56
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-std()-Y”
+fBodyAccJerk-std()-Y
 </td>
 </tr>
 <tr>
@@ -492,7 +492,7 @@ Variable name
 57
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-std()-Z”
+fBodyAccJerk-std()-Z
 </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ Variable name
 58
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-meanFreq()-X”
+fBodyAccJerk-meanFreq()-X
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ Variable name
 59
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-meanFreq()-Y”
+fBodyAccJerk-meanFreq()-Y
 </td>
 </tr>
 <tr>
@@ -516,7 +516,7 @@ Variable name
 60
 </td>
 <td style="text-align:left;">
-,“fBodyAccJerk-meanFreq()-Z”
+fBodyAccJerk-meanFreq()-Z
 </td>
 </tr>
 <tr>
@@ -524,7 +524,7 @@ Variable name
 61
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-mean()-X”
+fBodyGyro-mean()-X
 </td>
 </tr>
 <tr>
@@ -532,7 +532,7 @@ Variable name
 62
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-mean()-Y”
+fBodyGyro-mean()-Y
 </td>
 </tr>
 <tr>
@@ -540,7 +540,7 @@ Variable name
 63
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-mean()-Z”
+fBodyGyro-mean()-Z
 </td>
 </tr>
 <tr>
@@ -548,7 +548,7 @@ Variable name
 64
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-std()-X”
+fBodyGyro-std()-X
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ Variable name
 65
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-std()-Y”
+fBodyGyro-std()-Y
 </td>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ Variable name
 66
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-std()-Z”
+fBodyGyro-std()-Z
 </td>
 </tr>
 <tr>
@@ -572,7 +572,7 @@ Variable name
 67
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-meanFreq()-X”
+fBodyGyro-meanFreq()-X
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ Variable name
 68
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-meanFreq()-Y”
+fBodyGyro-meanFreq()-Y
 </td>
 </tr>
 <tr>
@@ -588,7 +588,7 @@ Variable name
 69
 </td>
 <td style="text-align:left;">
-,“fBodyGyro-meanFreq()-Z”
+fBodyGyro-meanFreq()-Z
 </td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ Variable name
 70
 </td>
 <td style="text-align:left;">
-,“fBodyAccMag-mean()”
+fBodyAccMag-mean()
 </td>
 </tr>
 <tr>
@@ -604,7 +604,7 @@ Variable name
 71
 </td>
 <td style="text-align:left;">
-,“fBodyAccMag-std()”
+fBodyAccMag-std()
 </td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ Variable name
 72
 </td>
 <td style="text-align:left;">
-,“fBodyAccMag-meanFreq()”
+fBodyAccMag-meanFreq()
 </td>
 </tr>
 <tr>
@@ -620,7 +620,7 @@ Variable name
 73
 </td>
 <td style="text-align:left;">
-,“fBodyBodyAccJerkMag-mean()”
+fBodyBodyAccJerkMag-mean()
 </td>
 </tr>
 <tr>
@@ -628,7 +628,7 @@ Variable name
 74
 </td>
 <td style="text-align:left;">
-,“fBodyBodyAccJerkMag-std()”
+fBodyBodyAccJerkMag-std()
 </td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@ Variable name
 75
 </td>
 <td style="text-align:left;">
-,“fBodyBodyAccJerkMag-meanFreq()”
+fBodyBodyAccJerkMag-meanFreq()
 </td>
 </tr>
 <tr>
@@ -644,7 +644,7 @@ Variable name
 76
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroMag-mean()”
+fBodyBodyGyroMag-mean()
 </td>
 </tr>
 <tr>
@@ -652,7 +652,7 @@ Variable name
 77
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroMag-std()”
+fBodyBodyGyroMag-std()
 </td>
 </tr>
 <tr>
@@ -660,7 +660,7 @@ Variable name
 78
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroMag-meanFreq()”
+fBodyBodyGyroMag-meanFreq()
 </td>
 </tr>
 <tr>
@@ -668,7 +668,7 @@ Variable name
 79
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroJerkMag-mean()”
+fBodyBodyGyroJerkMag-mean()
 </td>
 </tr>
 <tr>
@@ -676,7 +676,7 @@ Variable name
 80
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroJerkMag-std()”
+fBodyBodyGyroJerkMag-std()
 </td>
 </tr>
 <tr>
@@ -684,7 +684,7 @@ Variable name
 81
 </td>
 <td style="text-align:left;">
-,“fBodyBodyGyroJerkMag-meanFreq()”
+fBodyBodyGyroJerkMag-meanFreq()
 </td>
 </tr>
 <tr>
@@ -692,7 +692,7 @@ Variable name
 82
 </td>
 <td style="text-align:left;">
-,“angle(tBodyAccMean,gravity)”
+angle(tBodyAccMean,gravity)
 </td>
 </tr>
 <tr>
@@ -700,7 +700,7 @@ Variable name
 83
 </td>
 <td style="text-align:left;">
-,“angle(tBodyAccJerkMean),gravityMean)”
+angle(tBodyAccJerkMean),gravityMean)
 </td>
 </tr>
 <tr>
@@ -708,7 +708,7 @@ Variable name
 84
 </td>
 <td style="text-align:left;">
-,“angle(tBodyGyroMean,gravityMean)”
+angle(tBodyGyroMean,gravityMean)
 </td>
 </tr>
 <tr>
@@ -716,7 +716,7 @@ Variable name
 85
 </td>
 <td style="text-align:left;">
-,“angle(tBodyGyroJerkMean,gravityMean)”
+angle(tBodyGyroJerkMean,gravityMean)
 </td>
 </tr>
 <tr>
@@ -724,7 +724,7 @@ Variable name
 86
 </td>
 <td style="text-align:left;">
-,“angle(X,gravityMean)”
+angle(X,gravityMean)
 </td>
 </tr>
 <tr>
@@ -732,7 +732,7 @@ Variable name
 87
 </td>
 <td style="text-align:left;">
-,“angle(Y,gravityMean)”
+angle(Y,gravityMean)
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ Variable name
 88
 </td>
 <td style="text-align:left;">
-,“angle(Z,gravityMean)”
+angle(Z,gravityMean)
 </td>
 </tr>
 </tbody>
