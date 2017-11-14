@@ -78,6 +78,6 @@ newDataset <- group_by(oneDataset, personID, activityName) %>%
 write.csv(newDataset, file="tidyDataset.csv")
 
 #remove tidyData
-rm(newDataset)
+#rm(newDataset)
 
 
