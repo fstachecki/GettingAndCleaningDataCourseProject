@@ -1,8 +1,26 @@
----
-title: "codeBook"
-output: html_document
----
-
+<STYLE TYPE="text/css">
+<!--
+  td{
+    font-family: Arial; 
+    padding:0px;
+    cellpadding="0";
+    cellspacing="0"
+  }
+  th {
+    font-family: Arial; 
+    height: 20px;
+    font-weight: bold;
+    text-align: right;
+    background-color: #3399ff;
+  }
+  table { 
+    border: 1px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    
+  }
+--->
+</STYLE>
 ## Variables
 ```{r echo = FALSE, results = 'asis'}
 library(knitr)
