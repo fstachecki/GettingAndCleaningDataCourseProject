@@ -3,12 +3,8 @@ title: "codeBook"
 output: html_document
 ---
 
-```
-summary(cars)
-dfsd
-sdfsdf
-```
 ## Summary
+```
    personID                 activityName tBodyAcc-mean()-X tBodyAcc-mean()-Y  tBodyAcc-mean()-Z
  Min.   : 1.00   LAYING            :6     Min.   :0.2423    Min.   :-0.03166   Min.   :-0.1183  
  1st Qu.: 8.50   SITTING           :6     1st Qu.:0.2727    1st Qu.:-0.01896   1st Qu.:-0.1109  
@@ -156,6 +152,8 @@ sdfsdf
  Mean   : 0.07439     Mean   :-0.03549    
  3rd Qu.: 0.12404     3rd Qu.:-0.01117    
  Max.   : 0.32808     Max.   : 0.21708    
+```
+
 ## License:
 
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
