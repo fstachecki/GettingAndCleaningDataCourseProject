@@ -6,7 +6,8 @@ output: html_document
 ## Variables
 ```{r echo = FALSE, results = 'asis'}
 library(knitr)
-kable(newDataset, caption="Variables")
+dSet <- read.table("dTable.csv")
+kable(dSet, caption="Variables", col.names = c("Variable number","Variable name"), format = "html")
 ```
 
 ## Summary
