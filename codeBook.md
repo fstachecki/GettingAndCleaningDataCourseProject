@@ -3,6 +3,12 @@ title: "codeBook"
 output: html_document
 ---
 
+## Variables
+```{r echo = FALSE, results = 'asis'}
+library(knitr)
+kable(newDataset, caption="Variables")
+```
+
 ## Summary
 ```
    personID                 activityName tBodyAcc-mean()-X tBodyAcc-mean()-Y  tBodyAcc-mean()-Z
